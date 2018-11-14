@@ -217,7 +217,7 @@ namespace TimeMachine
 
 		private void padConfirm_Click(object sender, EventArgs e)
 		{
-			if (codeInput.Length >= 12)
+			if (codeInput.Length >= 12 && getTimestamp(codeInput) != -1)
 			{
 				destinationTimecode = codeInput;
 				codeInput = "";
