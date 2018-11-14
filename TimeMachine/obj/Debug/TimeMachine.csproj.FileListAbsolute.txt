@@ -1,0 +1,10 @@
+D:\Projects\Personal\TimeMachine\TimeMachine\bin\Debug\TimeMachine.exe.config
+D:\Projects\Personal\TimeMachine\TimeMachine\bin\Debug\TimeMachine.exe
+D:\Projects\Personal\TimeMachine\TimeMachine\bin\Debug\TimeMachine.pdb
+D:\Projects\Personal\TimeMachine\TimeMachine\obj\Debug\TimeMachine.csprojAssemblyReference.cache
+D:\Projects\Personal\TimeMachine\TimeMachine\obj\Debug\TimeMachine.Form1.resources
+D:\Projects\Personal\TimeMachine\TimeMachine\obj\Debug\TimeMachine.Properties.Resources.resources
+D:\Projects\Personal\TimeMachine\TimeMachine\obj\Debug\TimeMachine.csproj.GenerateResource.cache
+D:\Projects\Personal\TimeMachine\TimeMachine\obj\Debug\TimeMachine.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\TimeMachine\TimeMachine\obj\Debug\TimeMachine.exe
+D:\Projects\Personal\TimeMachine\TimeMachine\obj\Debug\TimeMachine.pdb
